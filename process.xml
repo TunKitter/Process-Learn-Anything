@@ -1,0 +1,25 @@
+<Website>
+<html>
+→h1..h6 
+→div
+→img
+→link
+</html>
+<css>
+→border
+→padding
+→ margin
+→ hover
+→color , background
+</css>
+<javascript>
+→string
+→var , type of
+→ tiền tố , hậu tố
+→ if,else
+→alert, consle
+→ String method
+→ Array and.Array Method
+→ Function
+</javascript>
+</Website>
