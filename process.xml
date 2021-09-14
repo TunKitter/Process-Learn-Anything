@@ -8,7 +8,7 @@
 <css>
 →border
 →padding
-→ margin
+→ margin+
 → hover
 →color , background
 </css>
@@ -20,7 +20,7 @@
 →alert, consle
 → String method
 → Array and.Array Method
-→ Function and Function Argument 
-
+→ Function+ and Function Argument 
+→ Polyfill ( basic )
 </javascript>
 </Website>
