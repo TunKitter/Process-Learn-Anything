@@ -4,6 +4,11 @@
 →div
 →img
 →link
+→ ol,ul,li
+→ dl, dt ,dd
+→ hr
+more...
+→meta
 </html>
 <css>
 →border
@@ -34,7 +39,7 @@
   → I'm training ipa +
   </Speak>
   <Listen>
-    → Normal - 70%
+    → Normal - 71%
   </Listen>
   <Write>
     Not Known - No Identifying
@@ -42,6 +47,9 @@
   <Gramma>
   So much than Previous day++
   </Gramma>
+  <Knownledge>
+ →   A/An The 
+  </Knowledge>
 </English>
 
 ㉿㉿㉿㉿㉿㉿
@@ -62,6 +70,7 @@
 <Other>
 → Creat New Language(Beta and developing..)
 → Setup Schedule -
+→ Add obb in apk (Previous Day )
 → Perfect ptich 
 → Tin học cơ sở
 → Build Pc Knowledge
