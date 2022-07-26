@@ -1,33 +1,14 @@
 <Website>
 <html>
-→h1..h6 
-→div
-→img
-→link
-→ ol,ul,li
-→ dl, dt ,dd
-→ hr
-more...
-→meta
+-> Complete html bassic structure
 </html>
 <css>
-→border
-→padding
-→ margin+
-→ hover
-→color , background
+-> Flexbox
+-> Grid
+-> Responsive
 </css>
 <javascript>
-→string
-→var , type of
-→ tiền tố , hậu tố
-→ if,else
-→alert, consle
-→ String method
-→ Array and.Array Method
-→ Function+ and Function Argument 
-→ Polyfill
-→ Object
+
 </javascript>
 </Website>
 
@@ -35,21 +16,17 @@ more...
 
 <English>
   <Speak>
-  → Very Extremly Basic for children+
-  → I'm training ipa +
+  -> Normal
   </Speak>
   <Listen>
-    → Normal - 71%
+    → Can listen without subtitles (almost ony english learning )
   </Listen>
   <Write>
     Not Known - No Identifying
   </Write>
-  <Gramma>
+  <Grammar>
   So much than Previous day++
   </Gramma>
-  <Knownledge>
- →   A/An The 
-  </Knowledge>
 </English>
 
 ㉿㉿㉿㉿㉿㉿
@@ -68,18 +45,6 @@ more...
 ㉿㉿㉿㉿㉿㉿
 
 <Other>
-→ Creat New Language(Beta and developing..)
-→ Setup Schedule -
-→ Add obb in apk (Previous Day )
-→ Perfect ptich 
-→ Tin học cơ sở
-→ Build Pc Knowledge
-→ Github Improver Than ++++
-→ PowerPoint a litle+
-→ Improve Present Skill
-→ More Attractive
-→ Trying Than , fail also ignore    
-→ guiar tân cổ
 
 </Other>
 
